@@ -1,3 +1,5 @@
+# Credit Card Transactions Fraud Detection using Machine Learning and Deep Learning
+
 #### The project aims to predict whether a credit card transaction is fraudulent or not.
 
 Python was used to preprocess the data and implement the Machine Learning algorithms. An Artificial Neural Network (ANN) was also implemented. The notebook has detailed description reagrding every step along with important visualizations, and comments in the code when found necessary.
